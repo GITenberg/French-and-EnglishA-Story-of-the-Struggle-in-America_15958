@@ -1,0 +1,40 @@
+_repo: French-and-EnglishA-Story-of-the-Struggle-in-America_15958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Dare, Evelyn
+    - Everett-Green, E. (Evelyn)
+    - Ward, E.
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Juvenile
+  fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Massacres -- Juvenile fiction'
+title: 'French and English: A Story of the Struggle in America'
+url: http://www.gutenberg.org/ebooks/15958
